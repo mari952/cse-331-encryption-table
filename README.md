@@ -25,3 +25,6 @@ To build the schematic circuit the following components were used:
 * Resistors = 8 resistors of two values. 330 ohm with LEDS and 10k ohm with SPDT switches
 * SPDT Switches = 4 switches
 * LEDS = 4 LEDS
+
+### Demonstration
+For the full demonstration of the work refer to this link : [Demonstation Video](https://drive.google.com/file/d/1jztCvLwb4HlF6TsG5zjj_pJXyZ3kbWsc/view?usp=drive_link)
